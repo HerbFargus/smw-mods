@@ -1,0 +1,20 @@
+#Stage Clear
+music/Won.ogg
+
+#Main Menu
+music/Menu.ogg
+
+#Tournament Menu
+music/Menu.ogg
+
+#Tournament Over
+music/Won.ogg
+
+#Song File Name then 1 if the song can play on background X or 0 if it shouldn't.  Background order is as follows:
+#classic mario, prison, pyrimids, ghost house, cave, clouds, plain, sky, snow, desert, rock wall, castle wall
+#In clouds, mountain, in trees, mansion, green rocks, rock wall, night sky
+
+music/GHZ.ogg,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+music/EHZ.ogg,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+music/CNZ.ogg,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+music/DEZ.ogg,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
